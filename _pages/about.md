@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! My name is Runkang Yang, and I am currently a sophomore at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), majoring in Computer Science and Technology. My journey in the field of computer science has been driven by an insatiable curiosity and a passion for understanding the intricate mechanisms that power modern technology. My primary research interest lies in deep learning and its wide-ranging applications.
+Hello! My name is Runkang Yang (杨润康) from [Jiaozuo](https://zh-two.iwiki.icu/w/index.php?title=Special:Search&search=%E7%84%A6%E4%BD%9C%E5%B8%82), Henan in China, and I am currently a sophomore at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), majoring in Computer Science and Technology. My journey in the field of computer science has been driven by an insatiable curiosity and a passion for understanding the intricate mechanisms that power modern technology. My primary research interest lies in deep learning and its wide-ranging applications.
 
 For more information please see my [CV](https://rankyer.github.io//cv/).
 
