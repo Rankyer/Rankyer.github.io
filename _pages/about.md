@@ -47,4 +47,4 @@ Student Work Experience
 Personal Interests
 ------------------
 
-Beyond academics, I am an avid reader and enjoy staying updated with the latest research and technological developments. I have a keen interest in open-source projects and believe in the power of collaborative innovation to drive progress. In my free time, I enjoy singing, [painting](https://rankyer.github.io//images/painting.jpg), and traveling, which provide a creative outlet and help me maintain a balanced lifestyle.
+Beyond academics, I am an avid reader and enjoy staying updated with the latest research and technological developments. I have a keen interest in open-source projects and believe in the power of collaborative innovation to drive progress. In my free time, I enjoy [singing](https://y.qq.com/n/ryqq/playlist/1352076314), [painting](https://rankyer.github.io//images/painting.jpg), and traveling, which provide a creative outlet and help me maintain a balanced lifestyle.
