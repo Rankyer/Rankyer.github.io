@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi
+Hello! My name is Runkang Yang, and I am currently a sophomore at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), majoring in Computer Science and Technology. My journey in the field of computer science has been driven by an insatiable curiosity and a passion for understanding the intricate mechanisms that power modern technology.
 
 A data-driven personal website
 ==============================
