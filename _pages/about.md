@@ -12,10 +12,16 @@ News
 ====
 * **[Aug. 2024]** Won the Third Prize in the 2024 [National Undergraduate Electronic Design Contest](https://nuedc-sh.sjtu.edu.cn/).
 * **[Jul. 2024]** Participated in the [Summer Workshop](https://sws.comp.nus.edu.sg/) at the School of Computing [(SOC)](https://www.comp.nus.edu.sg/), National University of Singapore [(NUS)](https://nus.edu.sg/). (Subtopic: [Deep learning](https://sws.comp.nus.edu.sg/Deep-Learning.html))
+* **[Mar. 2024]** Won the Third Prize in the 15th [Chinese Mathematics Competitions](https://www.cms.org.cn/Home/comp/comp/cid/16.html)
 
 ## Academic Background
 
 As a student at ShanghaiTech University, I have had the privilege of engaging with a diverse array of courses and projects that have solidified my foundation in computer science. My coursework has spanned topics such as computer programming, algorithms and data structures, computer architecture, software engineering, database system and so on, providing me with a broad and comprehensive understanding of the field.
+
+Awards and Honors
+---------------
+* The third prize in the 2024 National Undergraduate Electronic Design Contest[NUEDC](https://nuedc-sh.sjtu.edu.cn/)
+* The third prize in the 15th Chinese Mathematics Competitions[(CMC)](https://www.cms.org.cn/Home/comp/comp/cid/16.html)
 
 Personal Skills
 ---------------
