@@ -10,7 +10,7 @@ Hello! My name is Runkang Yang (杨润康) from [Jiaozuo](https://zh-two.iwiki.i
 
 News
 ====
-
+* **[Aug. 2024]** Won the Third Prize in the 2024 [National Undergraduate Electronic Design Contest](https://nuedc-sh.sjtu.edu.cn/).
 * **[Jul. 2024]** Participated in the [Summer Workshop](https://sws.comp.nus.edu.sg/) at the School of Computing [(SOC)](https://www.comp.nus.edu.sg/), National University of Singapore [(NUS)](https://nus.edu.sg/). (Subtopic: [Deep learning](https://sws.comp.nus.edu.sg/Deep-Learning.html))
 
 ## Academic Background
