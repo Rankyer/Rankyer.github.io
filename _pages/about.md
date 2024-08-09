@@ -12,16 +12,24 @@ News
 ====
 * **[Aug. 2024]** Won the Third Prize in the 2024 [National Undergraduate Electronic Design Contest](https://nuedc-sh.sjtu.edu.cn/).
 * **[Jul. 2024]** Participated in the [Summer Workshop](https://sws.comp.nus.edu.sg/) at the School of Computing [(SOC)](https://www.comp.nus.edu.sg/), National University of Singapore [(NUS)](https://nus.edu.sg/). (Subtopic: [Deep learning](https://sws.comp.nus.edu.sg/Deep-Learning.html))
-* **[Mar. 2024]** Won the Third Prize in the 15th [Chinese Mathematics Competitions](https://www.cms.org.cn/Home/comp/comp/cid/16.html)
+* **[Mar. 2024]** Won the Third Prize in the 15th [Chinese Mathematics Competitions](https://www.cms.org.cn/Home/comp/comp/cid/16.html).
 
 ## Academic Background
 
 As a student at ShanghaiTech University, I have had the privilege of engaging with a diverse array of courses and projects that have solidified my foundation in computer science. My coursework has spanned topics such as computer programming, algorithms and data structures, computer architecture, software engineering, database system and so on, providing me with a broad and comprehensive understanding of the field.
 
+Exchange Experience
+---------------
++  **National University of Singapore (NUS) - School of Computing(SoC)**  
+*July 2024*
+
+    - Attended lectures and conducted [lab sessions](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-DeepLearning-Labs) on deep learning topics, focusing on neural networks and AI applications.
+    - Engaged in [deep learning projects](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-Project), developed a deep learning model for image recognition tasks.
+
 Awards and Honors
 ---------------
-* The third prize in the 2024 National Undergraduate Electronic Design Contest[NUEDC](https://nuedc-sh.sjtu.edu.cn/)
-* The third prize in the 15th Chinese Mathematics Competitions[(CMC)](https://www.cms.org.cn/Home/comp/comp/cid/16.html)
+* The third prize in the 2024 National Undergraduate Electronic Design Contest [(NUEDC)](https://nuedc-sh.sjtu.edu.cn/).
+* The third prize in the 15th Chinese Mathematics Competitions [(CMC)](https://www.cms.org.cn/Home/comp/comp/cid/16.html).
 
 Personal Skills
 ---------------
@@ -29,15 +37,15 @@ Personal Skills
 * **Technical Skills**
   * **Programming Languages:** Python, C, C++, RISC-V
   * **Tools and Frameworks:** PyTorch, TensorFlow
-  * **Databases:** MySQL
-  * **Version Control:** Git, GitHub
-  * **Hardware Skills:** Multisim, Logisim
-* **Analytical Skills**
+  * **Databases:** SQL
   * **Data Analysis:** Pandas, NumPy
   * **Data Visualization:** Matplotlib
+  * **Version Control:** Git, GitHub
+  * **Hardware Skills:** Multisim, Logisim
 * **Other Skills**
   * **Documentation:** Microsoft Office, LaTeX
-  * **Content Editing**: Xiumi
+  * **Language:** CET-4, CET-6
+  * **Certificate:** National Computer Rank Examination(NCRE) Level 2
 
 Student Work Experience
 -----------------------
