@@ -68,6 +68,7 @@ Student Work Experience
 
 * **Student assistant**
   * **[Sep. 2022 - present]** Since September 2022, I have been a student assistant at the Integrated Office of the **News Center** at ShanghaiTech University. I primarily work on editing and managing content for the university's official WeChat account, promoting online campus communication. This experience has honed my communication and organizational skills and allowed me to contribute to the vibrant campus life at ShanghaiTech.
+
 <!-- * **Volunteer experience**
   * **[Sep. 2023]** Volunteer at the ASSIST 2023 (The 2023 Annual ShanghaiTech Symposium on Information Science and Technology).
   * **[Aug. 2022]** Volunteer at the 9th iGEM Conference of China iGEMer Community. -->
