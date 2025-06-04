@@ -28,7 +28,7 @@ Publications
 
 + [**Preprint**] Equally Critical: Samples, Targets, and Their Mappings in Datasets.  
   **Runkang Yang**, Peng Sun, Xinyi Shang, Yi Tang, Tao Lin*.   
-  2025.05.20 [arxiv]
+  2025.05.17 [[Arxiv]](https://arxiv.org/abs/2506.01987) [[GitHub]](https://github.com/Rankyer/Equally-Critical-Data-Properties)
 
 Research Internship
 -------------------
@@ -91,6 +91,6 @@ Personal Interests
 
 Beyond academics, I am an avid reader and enjoy staying updated with the latest research and technological developments.🐬 In my free time, I enjoy [singing](https://y.qq.com/n/ryqq/playlist/1352076314), painting, and traveling, which provide a creative outlet and help me maintain a balanced lifestyle. 🥸
 
-***Last modified: May. 2025***
+***Last modified: June. 2025***
 
 <!-- I have a keen interest in open-source projects and believe in the power of collaborative innovation to drive progress.  -->
