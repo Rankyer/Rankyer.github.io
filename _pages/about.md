@@ -6,17 +6,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! My name is Runkang Yang from [Jiaozuo](https://zh-two.iwiki.icu/w/index.php?title=Special:Search&search=%E7%84%A6%E4%BD%9C%E5%B8%82), Henan in China 🐾, and I am currently a junior at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), majoring in Computer Science and Technology🖥️.
-My research interest lies in **Efficient AI** *(dataset/knowledge distillation)* 🚀 & **Generative AI** *(diffusion models)* 🎨.
+Hello! My name is Runkang Yang from [Jiaozuo](https://zh-two.iwiki.icu/w/index.php?title=Special:Search&search=%E7%84%A6%E4%BD%9C%E5%B8%82), Henan in China 🐾, and I am currently a senior at [ShanghaiTech University](https://www.shanghaitech.edu.cn/), majoring in Computer Science and Technology🖥️.
+
+During my undergraduate studies, I had the honor of being a research intern at the [LINs Lab](https://lins-lab.github.io/), where I focused on data-efficient AI 🚀 and generative AI 🎨 under the guidance of Prof. [Tao Lin](https://tlin-taolin.github.io/) at [Westlake University](https://www.westlake.edu.cn/). Additionally, I was privileged to work as a research intern at [TeleAI](https://www.teleai.com.cn/), focusing on visual understanding for Multimodal Large Language Models (MLLM) 🤖, supervised by Prof. [Dell Zhang](https://scholar.google.com/citations?user=M0Ltb88AAAAJ&hl=en).
+
+I am also a candidate for the joint Ph.D. program between [Fudan University](https://www.fudan.edu.cn/main.htm) and [BYD](https://www.bydglobal.com/cn/index.html). Currently, I am a research intern at the [FD-LAMT Lab](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm), supervised by Prof. [Wei Li](https://faculty.fudan.edu.cn/weilics/zh_CN/index/119021/list/index.htm) at Fudan University. My research focuses on Computer Audition 🔊 and Music AI 🎶.
+
+<!-- My research interest lies in **Efficient AI** *(dataset/knowledge distillation)* 🚀 & **Generative AI** *(diffusion models)* 🎨. -->
 
 News
 ====
-
+* **[Jul. 2025]** Won the Third Prize in the 2025 [China Physiological Signal Challenge](https://www.bmedesign.cn/assets/topic-intro/%E4%B8%AD%E5%9B%BD%E7%94%9F%E7%90%86%E4%BF%A1%E5%8F%B7%E6%8C%91%E6%88%98%E8%B5%9B%EF%BC%88CPSC2025%EF%BC%89.pdf).
 * **[Dec. 2024]** Awarded the Outstanding Student for the 2023-2024 academic year (Top 10%).🦾
 * **[Nov. 2024]** Won the Third Prize in the 2024 [China Undergraduate Mathematical Contest in Modeling](https://www.mcm.edu.cn/).🛠️
 * **[Aug. 2024]** Won the Third Prize in the 2024 [National Undergraduate Electronic Design Contest](https://nuedc-sh.sjtu.edu.cn/).🕹️
 * **[Jul. 2024]** Get A+ grade in the [Summer Workshop](https://sws.comp.nus.edu.sg/) at the School of Computing [(SOC)](https://www.comp.nus.edu.sg/), National University of Singapore [(NUS)](https://nus.edu.sg/). (Subtopic: [Deep learning](https://sws.comp.nus.edu.sg/Deep-Learning.html))🤖
 * **[Mar. 2024]** Won the Third Prize in the 15th [Chinese Mathematics Competitions](https://www.cms.org.cn/Home/comp/comp/cid/16.html).➕
+
+<!-- ## Education
++ **ShanghaiTech University** (B.S. in Computer Science, 2022.09–2026.06),  
+
++ **Fudan University** (Ph.D. in Electronic Engineering, 2026.09–2031.06, expected) -->
 
 ## Academic Background
 
