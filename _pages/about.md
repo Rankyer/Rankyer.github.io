@@ -18,10 +18,10 @@ News
 ====
 * **[Sep. 2025]** Started my research internship at the [FD-LAMT Lab](https://faculty.fudan.edu.cn/weilics/zh_CN/zdylm/644067/list/index.htm)! 🥳  
 * **[Jul. 2025]** Started my research internship at [TeleAI](https://www.teleai.com.cn/)! 🎉
-<!-- * **[Jul. 2025]** Won the Third Prize in the 2025 [China Physiological Signal Challenge](https://www.bmedesign.cn/assets/topic-intro/%E4%B8%AD%E5%9B%BD%E7%94%9F%E7%90%86%E4%BF%A1%E5%8F%B7%E6%8C%91%E6%88%98%E8%B5%9B%EF%BC%88CPSC2025%EF%BC%89.pdf). -->
+* **[Jul. 2025]** Won the Third Prize in the 2025 [China Physiological Signal Challenge](https://www.bmedesign.cn/assets/topic-intro/%E4%B8%AD%E5%9B%BD%E7%94%9F%E7%90%86%E4%BF%A1%E5%8F%B7%E6%8C%91%E6%88%98%E8%B5%9B%EF%BC%88CPSC2025%EF%BC%89.pdf).
 * **[Dec. 2024]** Awarded the Outstanding Student for the 2023-2024 academic year (Top 10%).🦾
-<!-- * **[Nov. 2024]** Won the Third Prize in the 2024 [China Undergraduate Mathematical Contest in Modeling](https://www.mcm.edu.cn/).🛠️
-* **[Aug. 2024]** Won the Third Prize in the 2024 [National Undergraduate Electronic Design Contest](https://nuedc-sh.sjtu.edu.cn/).🕹️ -->
+* **[Nov. 2024]** Won the Third Prize in the 2024 [China Undergraduate Mathematical Contest in Modeling](https://www.mcm.edu.cn/).🛠️
+* **[Aug. 2024]** Won the Third Prize in the 2024 [National Undergraduate Electronic Design Contest](https://nuedc-sh.sjtu.edu.cn/).🕹️
 * **[Jul. 2024]** Started my research internship at [LINs Lab](https://lins-lab.github.io/)! 🎉
 * **[Jul. 2024]** Get A+ grade in the [Summer Workshop](https://sws.comp.nus.edu.sg/) at the School of Computing [(SOC)](https://www.comp.nus.edu.sg/), National University of Singapore [(NUS)](https://nus.edu.sg/). (Subtopic: [Deep learning](https://sws.comp.nus.edu.sg/Deep-Learning.html))🤖
 <!-- * **[Mar. 2024]** Won the Third Prize in the 15th [Chinese Mathematics Competitions](https://www.cms.org.cn/Home/comp/comp/cid/16.html).➕ -->
